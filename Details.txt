@@ -1,0 +1,5 @@
+https://docs.google.com/spreadsheets/d/10865Vs8PRoENQXuGIMuzwvkxwF4PXTNp-7TXETC2XkA/edit#gid=0
+
+Initial capacity os Array list is 10
+
+Legacy classes are the older claases(java 1.0.)which came before collection(java1.2)
